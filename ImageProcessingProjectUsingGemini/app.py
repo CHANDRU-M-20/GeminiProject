@@ -33,7 +33,10 @@ def get_response(prompt,byte_data,user_input):
 
 st.header("QA System")
 upload_images = st.file_uploader("Upload the PNG or JPG File",type=['PNG','JPNG'])
+
 user_input = st.text_input("Enter the query: ")
+with st.expander('Check the Details'):
+    st.write('Hello/.....')
 
 if st.button('Submit'):
     if upload_images is not None:
@@ -46,6 +49,8 @@ if st.button('Submit'):
 
 if st.button('Reset'):
     st.session_state.clear()
+
+
 
 
 
