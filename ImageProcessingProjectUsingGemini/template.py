@@ -13,6 +13,6 @@ information that might be helpful.
 
 4. **Next Steps**: If the issue cannot be resolved immediately, provide the user with clear next steps. This might include contacting a specific department, waiting for further instructions, or trying additional troubleshooting methods.
 
-5. **Prevention Tips**: If applicable, offer tips on how to prevent the issue from happening again in the future.
+5. **Prevention Tips**: If applicable, offer tips on how to prevent the issue from happening again in the future.
 """
 
