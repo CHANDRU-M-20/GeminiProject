@@ -44,5 +44,8 @@ if st.button('Submit'):
             if response:
                 st.write(response.text)
 
+if st.button('Reset'):
+    st.session_state.clear()
+
 
 
