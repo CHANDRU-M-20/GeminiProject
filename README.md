@@ -2,7 +2,7 @@
 # Gemini - Vision - Pro Application
 This application leverages the power of **Gemini - Vision - Pro** to understand and generate content efficiently. It combines advanced AI capabilities with a user-friendly interface to deliver top-notch content generation solutions.
 
-Features
+## Features
 
 - **Content Understanding**: Analyze and comprehend various types of content with high accuracy.
 - **Content Generation**: Generate high-quality content based on given inputs.
