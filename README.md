@@ -1,6 +1,6 @@
-# GeminiProject
+
 # Gemini - Vision - Pro Application
-# Multimodal QA System using Gemini-Pro-Vision
+### Multimodal QA System using Gemini-Pro-Vision
 
 ## Overview
 This project implements a **Multimodal Question-Answering (QA) System** using **Google's Gemini-Pro-Vision**. The system allows users to upload an image and input a text query related to the image. It then processes both inputs and generates a meaningful response using **Google Gemini AI**.
